@@ -6,13 +6,9 @@ body {
     background:#f8fcff url(/images/bg_gradient.jpg) repeat-x top;
 }
 
-#mastercon {
-
-    #MasterContainer {
-        width: 100%;
-        background: url(/images/bg_clouds.jpg) no-repeat center top;
-      }
-
+#master {
+    width: 100%;
+    background: url(/images/bg_clouds.jpg) no-repeat center top;
 }
 
 #container {
