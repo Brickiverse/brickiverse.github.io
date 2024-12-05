@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-#master {
+.master {
     width: 100%;
     background: url(/images/bg_clouds.jpg) no-repeat center top;
 }
@@ -52,7 +52,7 @@ body {
 
 }
 
-#signPane h5 {
+h5 {
 
     background-color: #ccc;
     font-family: Verdana;
