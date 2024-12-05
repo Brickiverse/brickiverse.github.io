@@ -49,6 +49,8 @@ body {
     border: solid 1px Black;
     width: 600px;
     height: 400px;
+    background-color: #eee;
+    font-size: 12;
 
 }
 
@@ -61,14 +63,6 @@ body {
     margin: 0;
 
 }
-
-.major {
-
-    background-color: rgb(240, 240, 240);
-
-}
-
-
 
 .signbox {
 
