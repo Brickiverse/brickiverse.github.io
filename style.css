@@ -1,6 +1,6 @@
 body {
     font-family: 'Comic Sans MS';
-    margin:0;
+    margin: 10px 0;
     text-transform:none;
     text-decoration:none;
     background:#f8fcff url(/images/bg_gradient.jpg) repeat-x top;
@@ -92,8 +92,30 @@ h5 {
 
 }
 
-.nav a, a:link, a:visited, a:active {
+.nav a, .nav a:link, .nav a:visited, .nav a:active {
 
     color: #f8fcff;
 
+}
+
+a, a:link, a:visited, a:active {
+
+    color: #6e99c9;
+
+}
+
+.button {
+    cursor: pointer;
+    background-color: #fff;
+    border: solid 1px #333;
+    color: #333;
+    font-family: Verdana,Sans-Serif;
+    font-size: .9em;
+    padding: 3px 10px 3px 10px;
+    text-decoration: none;
+}
+
+.button:link, .button:visited {
+    border: solid 1px #777;
+    color: #777;
 }
