@@ -1,5 +1,5 @@
 body {
-    font:normal 8pt/normal 'Comic Sans MS',Verdana,sans-serif;
+    font: 'Comic Sans MS';
     margin:0;
     text-transform:none;
     text-decoration:none;
@@ -45,9 +45,11 @@ body {
 
 #signPane {
 
+    margin-top: 10px;
+    float: right;
     border: solid 1px Black;
-    width: 600px;
-    height: 400px;
+    width: 325px;
+    height: 600px;
     background-color: #eee;
 
 }
@@ -71,3 +73,18 @@ body {
 
 }
 
+.nav {
+
+    background-color: #6e99c9;
+    border-top: 1px solid #000;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+    color: #f8fcff;
+
+}
+
+.nav a, a:link, a:visited, a:active {
+
+    color: #f8fcff;
+
+}
