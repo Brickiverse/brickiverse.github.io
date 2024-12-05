@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-.master {
+#master {
     width: 100%;
     background: url(/images/bg_clouds.jpg) no-repeat center top;
 }
