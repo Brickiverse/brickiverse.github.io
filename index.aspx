@@ -53,6 +53,8 @@
               <label for="key">Key: </label>
               <input type="text" name="key" id="key" class="signbox">
             </div>
+
+            <a id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Login" tabindex="4" class="Button" href="javascript:__doPostBack('ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$Login','')">Login</a>
     
           </span>
           <span id="mainPane">
